@@ -1,0 +1,9 @@
+.column {
+  width: 180px;
+  float: left;
+  padding: 20px;
+}
+
+.list {
+  list-style-type: none;
+}
