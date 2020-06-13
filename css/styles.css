@@ -7,3 +7,9 @@
 .list {
   list-style-type: none;
 }
+
+.bright {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: goldenrod
+}
