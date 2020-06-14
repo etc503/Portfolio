@@ -8,8 +8,33 @@
   list-style-type: none;
 }
 
+.interest li {
+ color: purple;
+  font-style: italic;
+}
+
 .bright {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   color: goldenrod
 }
+
+.img-1 {
+    float: left;    
+     margin: 0 15px 0 0;
+    
+}
+
+.center{
+  text-align: center;
+}
+
+.box {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 6px;
+  background-color: rgb(248, 240, 240); 
+}
+
+
+
